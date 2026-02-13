@@ -2,11 +2,11 @@
 
 Este es un proyecto de práctica para aprender Git y GitHub en el curso de Programación 1.
 
-Nombre: Emanuel  
+Nombre: Oscar David Castillo Boteo - Walber Elian Castro Sandoval 
 Carrera: Ingeniería en Sistemas  
 Universidad: Universidad Mariano Gálvez de Guatemala  
 
-Lo que he aprendido:
+Lo que hemos aprendido:
 - Crear repositorios en GitHub
 - Clonar repositorios
 - Hacer commits y push
