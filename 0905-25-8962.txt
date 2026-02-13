@@ -1,0 +1,13 @@
+0905-25-8962
+
+1. ¿Qué aprendiste sobre el flujo de trabajo con Git y GitHub?
+
+Aprendí a crear repositorios en GitHub, clonarlos en mi computadora, hacer cambios, usar git add, git commit y git push para subirlos. También aprendí a crear ramas y fusionarlas con main.
+
+2. ¿Cómo fue la experiencia de trabajar en pareja? ¿Encontraste algún conflicto? ¿Cómo lo resolviste?
+
+La experiencia fue buena porque pudimos dividir el trabajo. Trabajamos en ramas diferentes para evitar conflictos y usamos git pull antes de hacer cambios.
+
+3. ¿Qué ventajas crees que tiene usar Git en proyectos de programación?
+
+Git permite controlar versiones, trabajar en equipo sin perder información, regresar a versiones anteriores y organizar mejor el trabajo en proyectos grandes.
