@@ -17,4 +17,4 @@ Lo que hemos aprendido:
 * Fusionar ramas
 * Resolver conflictos
 
-  Esta línea fue agregada desde la rama rama-oscar-walber.
+  Esta línea fue agregada desde la rama rama-oscar
