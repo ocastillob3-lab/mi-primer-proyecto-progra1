@@ -19,3 +19,6 @@ Lo que hemos aprendido:
 
   Esta línea fue agregada desde la rama rama-oscar
 
+
+## Sección de Walber
+Este cambio fue hecho y trabajando únicamente desde Git Bash.
